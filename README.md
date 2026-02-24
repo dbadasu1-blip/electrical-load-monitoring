@@ -44,6 +44,6 @@
 | Week 4 | Feb 19-23 (4 commits) |
 | *TOTAL* | *13 commits* |
 
-⭐ Project completed for EEE 227 Midterm Capstone Project
+⭐ Project completed for EEE 227 Midsem Capstone Project
 👨‍💻 Author: BADASU DANIEL DODZI
 📅 February 2026
