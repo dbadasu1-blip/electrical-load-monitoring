@@ -6,7 +6,7 @@
 |-------|-------------|
 | *Name* | BADASU DANIEL DODZI |
 | *Index* | 01242033D |
-| *GitHub Username* | slykhobby27-arch |
+| *GitHub Username* | dbadasu1-blip |
 | *Programme* | HND Electrical Engineering |
 | *Course* | EEE 227 (PT) |
 | *Level* | 200 |
