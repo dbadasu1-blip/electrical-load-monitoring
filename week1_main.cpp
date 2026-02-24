@@ -6,9 +6,9 @@
  * File Name: main.cpp
  * 
  * AUTHOR INFORMATION:
- * Name: [FRIEND'S NAME]
- * Index: [FRIEND'S INDEX]
- * GitHub Username: [FRIEND'S USERNAME]
+ * Name: BADASU DANIEL DODZI
+ * Index: 01242033D
+ * GitHub Username: dbadasu1-blip
  * Programme: HND Electrical Engineering
  * Course: EEE 227 (PT) - Programming for Electrical Engineering
  * Level: 200
