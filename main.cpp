@@ -8,7 +8,7 @@
  * AUTHOR INFORMATION:
  * Name: BADASU DANIEL DODZI
  * Index: 01242033D
- * GitHub Username: [FRIEND'S USERNAME]
+ * GitHub Username: dbadasu1-blip
  * Programme: HND Electrical Engineering
  * Course: EEE 227 (PT) - Programming for Electrical Engineering
  * Level: 200
@@ -481,13 +481,22 @@ string getValidString(string prompt) {
         
         return value;
     }
-}/ /   A d d e d   d i s p l a y   f u n c t i o n  
- / /   W e e k   1   c o m p l e t e  
- / /   A d d e d   t o t a l   e n e r g y   c a l c u l a t i o n  
- / /   W e e k   2   c o m p l e t e  
- / /   A d d e d   t a r i f f   i n p u t   v a l i d a t i o n  
- / /   W e e k   3   c o m p l e t e  
- / /   A d d e d   l o a d F r o m F i l e   f u n c t i o n  
- / /   A d d e d   p r o f e s s i o n a l   f o r m a t t i n g  
- / /   F i n a l   v e r s i o n   c o m p l e t e  
+}/ /   A d d e d   d i s p l a y   f u n c t i o n 
+ 
+ / /   W e e k   1   c o m p l e t e 
+ 
+ / /   A d d e d   t o t a l   e n e r g y   c a l c u l a t i o n 
+ 
+ / /   W e e k   2   c o m p l e t e 
+ 
+ / /   A d d e d   t a r i f f   i n p u t   v a l i d a t i o n 
+ 
+ / /   W e e k   3   c o m p l e t e 
+ 
+ / /   A d d e d   l o a d F r o m F i l e   f u n c t i o n 
+ 
+ / /   A d d e d   p r o f e s s i o n a l   f o r m a t t i n g 
+ 
+ / /   F i n a l   v e r s i o n   c o m p l e t e 
+ 
  

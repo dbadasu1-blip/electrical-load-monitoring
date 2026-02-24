@@ -6,7 +6,7 @@
 |-------|-------------|
 | *Name* | BADASU DANIEL DODZI |
 | *Index* | 01242033D |
-| *GitHub Username* | slykhobby27-arch |
+| *GitHub Username* | dbadasu1-blip |
 | *Programme* | HND Electrical Engineering |
 | *Course* | EEE 227 (PT) |
 | *Level* | 200 |
@@ -44,6 +44,6 @@
 | Week 4 | Feb 19-23 (4 commits) |
 | *TOTAL* | *13 commits* |
 
-⭐ Project completed for EEE 227 Midterm Capstone Project
+⭐ Project completed for EEE 227 Midsem Capstone Project
 👨‍💻 Author: BADASU DANIEL DODZI
 📅 February 2026
